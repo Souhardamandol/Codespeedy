@@ -1,2 +1,2 @@
-# Codespeedy-
+# Codespeedy
 Intership project
